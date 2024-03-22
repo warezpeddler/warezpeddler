@@ -42,10 +42,9 @@ XXKKXXXXXXW0'         .,.,d:;kOkxl;kMMMMMMWKd'.ol. ,kk,.:d,    ;k
 - Various hats in their personal life, the more niche or technical the pursuit the better
 
 ## Goals and technical interests:
-- Areas of interest: Enterprise seurity (e.g. Active Directory, Entra ID etc), Detection Engineering, Malware Development and Reverse engineering, System Internals, Vulnerability Research  
+- Areas of interest: Enterprise security (e.g. Active Directory, Entra ID), Detection Engineering, Malware Development and Reverse engineering, System Internals, Vulnerability Research  
 - Currently learning: C/C++/C#
-- Not a badge collector but studying for various certs like CRTO levels 1 and 2
-- Motivations: Just wanted to start giving back to the infosec community, the way I have benefited from others code, research, tools
+- Motivations: Just wanted to start giving back to the infosec community, the way I have benefited from others code, research and tools.
 
 <!---
 warezpeddler/warezpeddler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
