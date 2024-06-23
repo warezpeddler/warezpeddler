@@ -39,12 +39,11 @@ XXKKXXXXXXW0'         .,.,d:;kOkxl;kMMMMMMWKd'.ol. ,kk,.:d,    ;k
 ## Whoami
 - From: London, UK
 - Security Consultant (Offensive) @ Confidential
-- Various hats in their personal life, the more niche or technical the pursuit the better
+- Various hats in their personal life, currently trying to balance being good at my job and having a life away from the keyboard.
 
 ## Goals and technical interests:
-- Areas of interest: Enterprise security (e.g. Active Directory, Entra ID), Detection Engineering, Malware Development and Reverse engineering, System Internals, Vulnerability Research  
-- Currently learning: C/C++/C#
-- Motivations: Just wanted to start giving back to the infosec community, the way I have benefited from others code, research and tools.
+- Areas of interest: Cloud Security, Enterprise security (e.g. Active Directory, Entra ID, Hypervisors), Detection Engineering and Malware Development.  
+- Motivation: Just wanted to start giving back, I am a big believer in paying it forward.
 
 <!---
 warezpeddler/warezpeddler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
