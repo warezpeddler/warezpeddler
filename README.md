@@ -37,8 +37,7 @@ XXKKXXXXXXW0'         .,.,d:;kOkxl;kMMMMMMWKd'.ol. ,kk,.:d,    ;k
 ```
 
 ## Whoami
-- From: London, UK
-- Security Consultant (Offensive) @ Confidential
+- Offensive Security @somewhere
 - Various hats in their personal life, currently trying to balance being good at my job and having a life away from the keyboard.
 
 ## Goals and technical interests:
