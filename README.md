@@ -39,9 +39,6 @@ XXKKXXXXXXW0'         .,.,d:;kOkxl;kMMMMMMWKd'.ol. ,kk,.:d,    ;k
 ## Whoami
 - Offensive Security @somewhere
 - Various hats in their personal life
-
-## Goals and technical interests:
-- Areas of interest: Active Directory, Cloud Security, Detection Engineering and Malware Development.  
 - Motivation: Just wanted to start giving back, I am a big believer in paying it forward.
 
 <!---
