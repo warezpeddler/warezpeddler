@@ -38,10 +38,10 @@ XXKKXXXXXXW0'         .,.,d:;kOkxl;kMMMMMMWKd'.ol. ,kk,.:d,    ;k
 
 ## Whoami
 - Offensive Security @somewhere
-- Various hats in their personal life, currently trying to balance being good at my job and having a life away from the keyboard.
+- Various hats in their personal life
 
 ## Goals and technical interests:
-- Areas of interest: Cloud Security, Enterprise security (e.g. Active Directory, Entra ID, Hypervisors), Detection Engineering and Malware Development.  
+- Areas of interest: Active Directory, Cloud Security, Detection Engineering and Malware Development.  
 - Motivation: Just wanted to start giving back, I am a big believer in paying it forward.
 
 <!---
